@@ -1,0 +1,5 @@
+JSON - Java Script Object Notation
+Formato padrao para armazenamento e troca de dados, é um testo que descreve as coisas como objetos JS
+
+XML - Primeiro metodo desenvolvido para fazer este tranporte, mas tem alguns pontos negativos como a 
+estrutura é muito extensa.
